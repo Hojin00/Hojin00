@@ -1,6 +1,6 @@
 ### iOS developer, Hojin Ryu 💻
 
-I always challenge myself to be a better developer. What I truly believe is that knowledge acquisition only comes after it's used for valuable purpose. So whenever I learn something I try to share with someone.
+I always challenge myself to be a better software developer. What I truly believe is that knowledge acquisition only comes after it's used for valuable purpose. So whenever I learn something I try to share with someone.
 
 Profile:
 - LinkedIn: https://www.linkedin.com/in/hojin-ryu-3bb80a1b3/
