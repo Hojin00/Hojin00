@@ -5,7 +5,7 @@ I always challenge myself to be a better software developer. I truly believe tha
 Profile:
 - LinkedIn: https://www.linkedin.com/in/hojin-ryu-3bb80a1b3/
 - email: robert.ryu01@gmail.com
-- medium: https://medium.com/@robert.ryu01
+- blog: https://insight00-15.tistory.com
 <!--
 **Hojin00/Hojin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
