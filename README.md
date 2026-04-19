@@ -11,6 +11,7 @@ Profile:
 ### 2026
 | No. | Title | Publish At |
 |---:|---|---|
+| 4 | [[개발 도서], 개발자는 글을 못 쓴다고요? - 커밋 메시지 작성하기](https://insight00-15.tistory.com/4)| 2026/4/19 |
 | 3 | [Github Actions로 개선하는 코드 리뷰 문화](https://insight00-15.tistory.com/3)| 2026/4/16 |
 | 2 | [백엔드 개발자](https://insight00-15.tistory.com/2)| 2026/4/14 |
 | 1 | [k6, Prometheus, Grafana를 사용한 부하 테스트 환경 구성하기(with Docker-compose)](https://insight00-15.tistory.com/1)| 2026/4/03 |
