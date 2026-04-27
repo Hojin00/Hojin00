@@ -11,6 +11,7 @@ Profile:
 ### 2026
 | No. | Title | Publish At |
 |---:|---|---|
+| 6 | [외부 API 연동 안정화 체크리스트 : Instagram API 사례로 정리](https://insight00-15.tistory.com/6)| 2026/4/27 |
 | 5 | [Instagram API 연동 with Instagram Login](https://insight00-15.tistory.com/5)| 2026/4/20 |
 | 4 | [[개발 도서], 개발자는 글을 못 쓴다고요? - 커밋 메시지 작성하기](https://insight00-15.tistory.com/4)| 2026/4/19 |
 | 3 | [Github Actions로 개선하는 코드 리뷰 문화](https://insight00-15.tistory.com/3)| 2026/4/16 |
